@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560801272 source:d:\semestre_iii\ciencia de la computación ii\listas\prueba\main.cpp
+	<iostream>
+
+1560801397 source:d:\semestre_iii\ciencia de la computación ii\listas\prueba\functores.cpp
+	"functores.h"
+
+1560801397 d:\semestre_iii\ciencia de la computación ii\listas\prueba\functores.h
+

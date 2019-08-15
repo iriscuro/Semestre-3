@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558816738 source:d:\semestre_iii\ciencia de la computación ii\listas\lista.cpp
+	"lista.h"
+
+1560067713 d:\semestre_iii\ciencia de la computación ii\listas\lista.h
+	"nodo.h"
+	<iostream>
+
+1560602265 source:d:\semestre_iii\ciencia de la computación ii\listas\main.cpp
+	<iostream>
+	"lista.h"
+
+1559494370 d:\semestre_iii\ciencia de la computación ii\listas\nodo.h
+

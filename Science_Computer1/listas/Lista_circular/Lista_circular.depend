@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559844421 source:d:\semestre_iii\ciencia de la computación ii\listas\lista_circular\main.cpp
+	<iostream>
+	"lista.h"
+
+1559854986 d:\semestre_iii\ciencia de la computación ii\listas\lista_circular\lista.h
+	<iostream>
+	"nodo.h"
+
+1559844421 d:\semestre_iii\ciencia de la computación ii\listas\lista_circular\nodo.h
+

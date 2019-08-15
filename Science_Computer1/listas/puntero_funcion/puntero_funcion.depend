@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560190542 source:d:\semestre_iii\ciencia de la computación ii\listas\puntero_funcion\main.cpp
+	<iostream>
+	"lista_Orden_simple.h"
+
+1560065431 d:\semestre_iii\ciencia de la computación ii\listas\puntero_funcion\lista_orden_simple.h
+	<iostream>
+
