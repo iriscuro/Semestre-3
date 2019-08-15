@@ -1,0 +1,10 @@
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           3135257310       114565416
+Paquetes de unidifusi¢n            1197534          629868
+Paquetes no de unidifusi¢n        11145420           12018
+Descartados                              0               0
+Errores                                  0               0
+Protocolos desconocidos                  0
